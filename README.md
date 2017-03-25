@@ -42,7 +42,7 @@ While not useful in practice, you can use this to verify that the `LocalAuthenti
 
 `Xcode` is not required (As long as *HOMEBREW_PREFIX* is default).
 
-> brew tap paulche/sudo-touchid
+> brew tap rahuliyer95/sudo-touchid
 
 > brew install sudo-touchid
 
